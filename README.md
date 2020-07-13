@@ -1,5 +1,5 @@
 <h1 align='center'>Componentes</h1> 
----
+
 
  ### Projeto desenvolvido seguindo os passos do curso da DevMedia "Construindo meus primeiros componentes"
 
