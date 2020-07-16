@@ -26,3 +26,9 @@
     <img src="./img/App.png">
 </p>
 
+## Certificado
+
+<p>
+    Certificado de conclusão do curso<a href="./img/certificado.png"> Clique Aqui<a/>
+</p>
+
